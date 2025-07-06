@@ -105,7 +105,7 @@ python client_socket.py
 
 ## 🪪 Tác giả
 
-- **Họ tên:** Nguyễn Thị Thùy Linh
+- **Họ tên:** Hồ Đức Mạnh
 - **Lớp:** CNTT16-05
 - **Môn:** An toàn và Bảo mật thông tin
 - **GVHD:** Trần Đức Thắng
