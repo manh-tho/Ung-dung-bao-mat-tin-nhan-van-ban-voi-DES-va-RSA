@@ -1,5 +1,9 @@
 # 📡 Ứng dụng bảo mật tin nhắn văn bản với DES và RSA
 
+<p align="center">
+  <img src="logoDaiNam.png" alt="DaiNam University Logo" width="250"/>
+</p>
+
 ## 🚀 Giới thiệu
 
 Đây là **bài tập lớn môn An toàn và Bảo mật thông tin - Đề 18**, xây dựng hệ thống **ứng dụng chat bảo mật tin nhắn văn bản** nhằm đảm bảo:
